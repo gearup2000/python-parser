@@ -1,8 +1,8 @@
 # python-parser
 Parser based on Python
 libraries used:
-  1. requests for http requests 
-  2. beautifulsoup4 for parsing
+  1. requests
+  2. beautifulsoup4
 
 The first parser is the parser_gamestop2.py
 The parser check the "marvelous reviews" of the games from stopgame.ru website.
