@@ -1,6 +1,6 @@
 # python-parser
 Parser based on Python
-libraryies used:
+libraries used:
   1. requests for http requests 
   2. beautifulsoup4 for parsing
 
